@@ -15,7 +15,9 @@ or using the pip package manager
 3. Activate the environment
 `source activate <env_name>`
 4. Test within the Jupyter Notebook if you may
+
 If you cannot load the **virtual environment** in your _jupyter notebook_, try the following,
+
 Install the ipython kernel module into your virtualenv
 `pip install ipykernel`
 
