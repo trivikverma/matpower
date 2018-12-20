@@ -14,7 +14,7 @@ or using the pip package manager
 `pip install pypower`
 3. Activate the environment
 `source activate <env_name>`
-4. Test within the Jupyter Notebook if you may
+4. Test within the Jupyter Notebook if you may using the getAdmittanceMatrix notebook
 
 If you cannot load the **virtual environment** in your _jupyter notebook_, try the following,
 
